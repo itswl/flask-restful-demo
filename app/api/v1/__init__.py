@@ -1,6 +1,6 @@
 from flask_restful import Api
 from flask import Blueprint
-from app.api.v1.test import Hello
+from app.api.v1.hello import Hello
 
 
 def register_views(app):
