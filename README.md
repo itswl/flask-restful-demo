@@ -25,6 +25,7 @@ pipenv graph
 pipenv --venv
 
 # 安装 flask 
+pip3 install flask flask_restful
 ```
 
 ```
